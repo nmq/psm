@@ -1,0 +1,15 @@
+{
+  "name": "psm",
+  "version": "1.0.0",
+  "description": "Price Sensitivity Measurement Analysis",
+  "main": "psm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "fs": "^0.0.1-security"
+  }
+}
